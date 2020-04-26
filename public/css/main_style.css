@@ -1,0 +1,140 @@
+.marqueeimage{
+    display: block;
+  }
+  .galleryimage{
+    display: none;
+  }
+  .imageslider{
+      height: 300px;
+      width: 100%;
+  }
+      .navbar{
+          position:fixed;
+          left: 0;
+     top: 0;
+     width: 100%;
+     background-color: black;
+     color: white;
+  
+          
+      }
+  body{
+      font-family: Phetsarath OT;
+  }
+  .collapse ul{
+      margin-right: 50px;
+  }
+  
+  
+  
+  .dropdown-item:hover {
+    border-bottom: 3px solid greenyellow;
+  
+  }
+  
+   .collapse li:hover {
+    border-bottom: 3px solid white;
+  
+  }
+  
+  .collapse li{
+      margin-left:10px;
+  }
+  
+  .copyright{
+      
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: black;
+     color: white;
+     text-align: center;
+  }
+  .nav-item{
+      color:red;
+  
+  }
+  #navbar{
+     
+  overflow: hidden;
+    
+  
+    transition: 0.4s;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 99;
+  }
+  
+  .imgblog{
+    width: 100%;
+    height: 100%;
+    
+  }
+  
+  
+  
+  #map{
+    width: 100%
+  }
+  
+  #btnreadmore{
+    float: right; 
+  margin-bottom:5px;}
+  
+  #dateblog{
+    margin-bottom:0px;
+    margin-top:50px;
+    
+  }
+  
+  
+  marquee{
+  height: 300px;
+  width: 100%;
+  }
+  
+  
+  
+  #imgmarquee{
+    width: 300px;
+    height: 300px;
+  }
+  
+  #imgmarquees{
+    width: 260px;
+    height: 260px;
+    padding: 5px;
+  
+  }
+  
+  .imgbrochure{
+    width: 100%;
+    height: 100%;
+  }
+  
+  #rowbrochure{
+    overflow: auto;
+      width: 100%;
+      height: 500px;
+      
+    }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
